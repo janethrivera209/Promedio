@@ -9,3 +9,4 @@ Estructura del Código
 *Se calcula el promedio de cada materia dividiendo la suma de sus calificaciones entre cinco.
 *Se calcula el promedio final sumando los promedios de cada materia y dividiéndolos entre seis.
 *Se muestra la tabla de calificaciones en la consola junto con el promedio final.
+
